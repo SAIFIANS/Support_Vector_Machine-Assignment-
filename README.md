@@ -1,4 +1,4 @@
-# Support_Vector_Machine-Assignment-
+# Support_Vector_Machine
 Contains Data Science Assignments for Support Vector Machine with datasets and Python Codes
 
 # Problem Forest Fires
